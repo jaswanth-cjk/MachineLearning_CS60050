@@ -1,0 +1,18 @@
+The accuracy obtained for binary SVM classifier using linear kernel :  0.2857142857142857
+The accuracy obtained for binary SVM classifier using quadratic kernel :  0.42857142857142855
+The accuracy obtained for binary SVM classifier using radial basis function kernel :  0.2857142857142857
+
+The accuracy obtained on the first MLP Classifier :  0.42857142857142855
+The accuracy obtained on the second MLP Classifier :  0.14285714285714285
+
+The accuracy obtained for the respective learning rates on the best model are :
+0.1  :  0.14285714285714285
+0.01  :  0.2857142857142857
+0.001  :  0.8571428571428571
+0.0001  :  0.5714285714285714
+1e-05  :  0.5714285714285714
+
+The list of column indexes selected after applying Forward Feature Selection :
+ [16, 17, 19, 22, 53]
+
+The final accuracy obtained after using ensemble learning with max voting technique is :  0.2857142857142857

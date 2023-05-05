@@ -1,0 +1,21 @@
+The dimensions of the dataframe before performing PCA preserving 95% variance :  (32, 56)
+The dimensions of the dataframe after performing PCA preserving 95% variance :  (32, 21)
+
+The variance obtained for each feature selected by PCA in sorted order :
+ [15.35551997 10.76680834  8.27175332  6.67599663  6.24522141  5.95944999
+  4.88180764  4.62321248  4.19658843  3.95327207  3.2886341   3.09141143
+  3.00563481  2.74616704  2.2773793   2.07076923  1.83656504  1.73420209
+  1.60759913  1.51078353  1.24068633]
+
+Final variance obtained after including all the features selected by PCA :  95.33946229824255
+
+The list of values of NMI obtained for each k :
+2  :  0.4639451193512962
+3  :  0.5484996779639744
+4  :  0.49261930254339586
+5  :  0.6213756032106802
+6  :  0.9013295031110302
+7  :  0.5936405420911397
+8  :  0.6045809887409499
+
+The value of K for which maximum value of NMI is obtained is :  6

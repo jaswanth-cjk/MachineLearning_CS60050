@@ -1,0 +1,18 @@
+The best test accuracy obtained so far :  0.8805998481397115
+The depth of the tree is :  10
+Split : Previously_Insured, Best value : 0
+    Split : Vehicle_Damage, Best value : 0
+        Split : Vehicle_Age, Best value : 0
+            Best value : 0
+            Best value : 0
+            Split : Policy_Sales_Channel, Best value : 0
+                Best value : 0
+                Split : Age, Best value : 0
+                    Split : Region_Code, Best value : 1
+                        Best value : 0
+                        Split : Gender, Best value : 1
+                            Best value : 0
+                            Best value : 1
+                    Best value : 0
+        Best value : 0
+    Best value : 0
